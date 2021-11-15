@@ -1,0 +1,40 @@
+Question: 1
+How would I tell Tracy to move forward 100 pixels?
+
+
+1. forward 100
+
+2. move(100)
+
+3. Tracy, move forward 100 pixels
+
+4. forward(100)
+
+Answer: 4
+------------------------------------------------------------------------------------------
+Question: 2
+When using the circle() command, what value do we put inside the parentheses?
+
+
+1. The radius of the circle
+
+2. The center of the circle
+
+3. The diameter of the circle
+
+4. The width of the circle
+------------------------------------------------------------------------------------------
+Question: 3
+When Tracy is facing right, from what location does she start drawing her circle?
+
+
+1. The top of the circle
+
+2. The bottom of the circle
+
+3. The left side of the circle
+
+4. The middle of the circle
+
+Answer: 2
+------------------------------------------------------------------------------------------
