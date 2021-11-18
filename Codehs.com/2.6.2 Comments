@@ -1,0 +1,42 @@
+Question: 1
+Comments are:
+
+
+1. Written for humans to read and understand
+
+2. Only needed when a program is over 50 lines
+
+3. Commands performed by the computer
+
+4. Always blue when Python recognizes them
+
+Answer: 1
+-----------------------------------------------------------------------------------------
+Question: 2
+What symbol is used at the beginning of an in-line comment?
+
+
+1. "
+
+2. !
+
+3. #
+
+4. :
+
+Answer: 3
+-----------------------------------------------------------------------------------------
+Question: 3
+What punctuation is needed to begin a multi-line comment?
+
+
+1. #
+
+2. "
+
+3. """
+
+4. *
+
+Answer: 3
+-----------------------------------------------------------------------------------------
