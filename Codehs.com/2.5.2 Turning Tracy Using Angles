@@ -1,0 +1,55 @@
+Question: 1
+If I use the command right(180), which way will Tracy turn?
+
+
+1. She will turn in a circle
+
+2. She will turn around
+
+3. She will turn to face up
+
+4. She will turn to face left
+
+Answer: 2
+-------------------------------------------------------------------------------------------------------
+Question: 2
+The setposition() command moves Tracy to a coordinate and:
+
+
+1. turns her to face left
+
+2. does not turn her
+
+3. turns her to face up
+
+4. turns her to face down
+
+Answer: 2
+-------------------------------------------------------------------------------------------------------
+Question: 3
+If you wanted Tracy to complete her command immediately, which speed value would you use?
+
+
+1. 0
+
+2. 1
+
+3. 5
+
+4. 10
+
+Answer: 1
+-------------------------------------------------------------------------------------------------------
+If you want three circles to be drawn next to each other (as seen in the image below), after drawing the first circle, how far would you need to move Tracy before drawing the next circle?
+
+
+1. 100 pixels
+
+2. 50 pixels
+
+3. The circle’s radius
+
+4. The circle’s diameter
+
+Answer: 4
+-------------------------------------------------------------------------------------------------------
