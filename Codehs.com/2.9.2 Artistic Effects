@@ -1,0 +1,65 @@
+Question: 1
+How would I change Tracy’s trail to a yellow line with a thickness of 10 pixels?
+
+
+1. Color(Yellow)
+thickness(10)
+----------------------
+2. color(“yellow”)
+pensize(10)
+----------------------
+3. color yellow()
+pensize(10)
+----------------------
+4. color yellow():
+pensize(10)
+
+Answer: 2
+--------------------------------------------------------------------------------------------------------------------------
+Question: 2
+What is true of Tracy’s color command?
+
+
+1. You can only use hex color codes
+
+2. There are 10 different colors that Tracy knows
+
+3. The color name must have underscores between words (ex: light_blue)
+
+4. The color name must be in quotation marks
+
+Answer: 4
+--------------------------------------------------------------------------------------------------------------------------
+Question: 3
+What is the correct way to draw a circle that is filled in?
+
+
+1. begin_fill()
+circle(20)
+end_fill()
+---------------------------
+2. circle(20)
+begin_fill()
+end_fill()
+--------------------------
+3. circle(begin_fill, 20, end_fill)
+--------------------------
+4. circle(20)
+end_fill()
+
+Answer: 1
+--------------------------------------------------------------------------------------------------------------------------
+Question: 4
+What would be the output of the following command?
+
+circle(50,360,5)
+
+Answer: 3
+--------------------------------------------------------------------------------------------------------------------------
+Question: 5
+What would be the output of the following command?
+
+circle(50,180,3)
+
+Answer: 1
+--------------------------------------------------------------------------------------------------------------------------
